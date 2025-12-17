@@ -1,0 +1,10 @@
+lab*/**/.vs/
+lab*/**/x64/
+lab*/**/Debug/
+lab*/**/Release/
+
+*.exe
+*.obj
+*.cache
+*.tmp
+*.temp
